@@ -34,15 +34,15 @@ port: 3000
 #───┘ PostgreSQL configuration └────────────────────────────────
 
 db:
-  host: db
+  host: dpg-cdhs5m2rrk06v9sign00-a
   port: 5432
 
   # Database name
-  db: misskey
+  db: misskey_nidk
 
   # Auth
-  user: example-misskey-user
-  pass: example-misskey-pass
+  user: misskey_nidk_user
+  pass: mcY9lFWXmOyKEYl5gYYVuCyfXJQtQCEA
 
   # Whether disable Caching queries
   #disableCache: true
@@ -55,7 +55,7 @@ db:
 #───┘ Redis configuration └─────────────────────────────────────
 
 redis:
-  host: redis
+  host: red-cdhpl09a6gdsnllt3lfg
   port: 6379
   #family: 0  # 0=Both, 4=IPv4, 6=IPv6
   #pass: example-pass
