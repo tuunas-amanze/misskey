@@ -67,7 +67,7 @@ redis:
   host: red-cdhpl09a6gdsnllt3lfg
   port: 6379
   #family: 0  # 0=Both, 4=IPv4, 6=IPv6
-  pass: ZvNAB0RialSQWF90kS6AEdoO50fRJf9P
+  #pass: ZvNAB0RialSQWF90kS6AEdoO50fRJf9P
   #prefix: example-prefix
   #db: 1
 
